@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SortFront.ResultPage"
+             Title="ResultPage"
+             NavigationPage.HasNavigationBar="False">
+    
+    <ScrollView BackgroundColor="{DynamicResource PageBackgroundColor}">
+        
+        <VerticalStackLayout>
+            
+            <Button x:Name="SwitchThemeButton"
+                    Text="Тема"
+                    TextColor="{DynamicResource ButtonTextColor}"
+                    HorizontalOptions="End"
+                    BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                    Clicked="SwitchTheme"/>
+            
+            <VerticalStackLayout Margin="0, 100">
+                <Label x:Name="RefreshTitle"
+                       Text="Производится сортировка"
+                       FontSize="42"
+                       TextColor="{DynamicResource LabelTextColor}"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" />
+
+                <Label x:Name="WellDone"
+                       Text="Ваш отсортированный массив"
+                       FontSize="42"
+                       TextColor="{DynamicResource LabelTextColor}"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center"
+                       IsVisible="False"/>
+
+                <Button x:Name="RefreshButton"
+                        Text="Обновить"
+                        Margin="0, 50"
+                        FontSize="24"
+                        WidthRequest="200"
+                        HeightRequest="40"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        Clicked="RefreshResult"/>
+
+                <Entry x:Name="PathToFileField"
+                       HorizontalOptions="Center"
+                       Text="Введите путь до папки"
+                       TextColor="{DynamicResource ButtonTextColor}"
+                       BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                       Margin="0, 30, 0, 0"
+                       HeightRequest="10"
+                       IsVisible="False"
+                       WidthRequest="400"/>
+
+                <Button x:Name="GetFileButton"
+                        Text="Получить файл"
+                        Margin="0, 50"
+                        FontSize="20"
+                        WidthRequest="200"
+                        HeightRequest="40"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        Clicked="GetResultArray"
+                        IsVisible="False"/>
+
+                <Label x:Name="Congratulations"
+                       Text="Готово!"
+                       TextColor="{DynamicResource LabelTextColor}"
+                       FontSize="36"
+                       IsVisible="False"
+                       HorizontalOptions="Center"
+                       Margin="0, 30, 0, 0"/>
+
+            </VerticalStackLayout>
+            
+        </VerticalStackLayout>
+        
+    </ScrollView>
+    
+</ContentPage>

@@ -1,0 +1,12 @@
+D:\Homework\SortFrontProj\SortRequirement\bin\Debug\net7.0\SortRequirement.deps.json
+D:\Homework\SortFrontProj\SortRequirement\bin\Debug\net7.0\SortRequirement.dll
+D:\Homework\SortFrontProj\SortRequirement\bin\Debug\net7.0\SortRequirement.pdb
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.csproj.AssemblyReference.cache
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.AssemblyInfoInputs.cache
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.AssemblyInfo.cs
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.csproj.CoreCompileInputs.cache
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.dll
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\refint\SortRequirement.dll
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\SortRequirement.pdb
+D:\Homework\SortFrontProj\SortRequirement\obj\Debug\net7.0\ref\SortRequirement.dll

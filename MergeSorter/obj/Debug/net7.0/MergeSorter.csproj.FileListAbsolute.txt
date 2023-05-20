@@ -1,0 +1,17 @@
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\MergeSorter.deps.json
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\MergeSorter.dll
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\MergeSorter.pdb
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.csproj.AssemblyReference.cache
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.AssemblyInfoInputs.cache
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.AssemblyInfo.cs
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.csproj.CoreCompileInputs.cache
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.dll
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\refint\MergeSorter.dll
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.pdb
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\ref\MergeSorter.dll
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\MergeSorter.exe
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\MergeSorter.runtimeconfig.json
+D:\Homework\MergeSortProj\MergeSorter\bin\Debug\net7.0\SortRequirement.dll
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.csproj.CopyComplete
+D:\Homework\MergeSortProj\MergeSorter\obj\Debug\net7.0\MergeSorter.genruntimeconfig.cache

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SortFront.ChooseSettingsPage"
+             NavigationPage.HasNavigationBar="False"
+             Title="ChooseSettingsPage">
+    
+    <ScrollView BackgroundColor="{DynamicResource PageBackgroundColor}">
+        
+        <VerticalStackLayout>
+
+            <Button x:Name="SwitchThemeButton"
+                    Text="Тема"
+                    TextColor="{DynamicResource ButtonTextColor}"
+                    HorizontalOptions="End"
+                    BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                    Clicked="SwitchTheme"/>
+
+            <VerticalStackLayout>
+                
+                <Label x:Name="ToDoTitle"
+                       Text="Выберите необходимые файлы"
+                       FontSize="42"
+                       Margin="0, 40, 0, 40"
+                       HorizontalOptions="Center"
+                       TextColor="{DynamicResource LabelTextColor}"/>
+
+                <Button x:Name="ChooseArrayButton"
+                        Text="Выберите массив"
+                        Margin="0, 10"
+                        WidthRequest="200"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        Clicked="ChooseArray"/>
+                
+                <Button x:Name="ChooseAssemblyButton"
+                        Text="Выберите сборку"
+                        Margin="0, 10"
+                        WidthRequest="200"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        Clicked="ChooseAssembly"/>
+                
+                <Button x:Name="CalculateButton"
+                        Margin="0, 10"
+                        WidthRequest="200"
+                        Text="Посчитать"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        Clicked="GoToResultPage"/>
+                    
+            </VerticalStackLayout>
+            
+        </VerticalStackLayout>
+        
+    </ScrollView>
+    
+</ContentPage>

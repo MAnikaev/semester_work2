@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MergeSorter/1.0.0": {
+        "dependencies": {
+          "SortRequirement": "1.0.0"
+        },
+        "runtime": {
+          "MergeSorter.dll": {}
+        }
+      },
+      "SortRequirement/1.0.0": {
+        "runtime": {
+          "lib/net7.0/SortRequirement.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MergeSorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortRequirement/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z3hoaehaIK3vdX3RKFiyPhWVfn8Xh9K7+97G+OGPo+b+SakmMJE3eAlaOdse+Ab3cmL5H4kFYxB+qhZU5U/B1Q==",
+      "path": "sortrequirement/1.0.0",
+      "hashPath": "sortrequirement.1.0.0.nupkg.sha512"
+    }
+  }
+}

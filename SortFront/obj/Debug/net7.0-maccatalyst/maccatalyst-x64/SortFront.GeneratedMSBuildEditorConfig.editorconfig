@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SortFront
+build_property.ProjectDir = D:\Homework\SortFrontProj\SortFront\
+
+[D:/Homework/SortFrontProj/SortFront/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Homework/SortFrontProj/SortFront/ChooseSettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.ChooseSettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ChooseSettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ChooseSettingsPage.xaml
+
+[D:/Homework/SortFrontProj/SortFront/GuidePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.GuidePage.xaml
+build_metadata.AdditionalFiles.TargetPath = GuidePage.xaml
+build_metadata.AdditionalFiles.RelativePath = GuidePage.xaml
+
+[D:/Homework/SortFrontProj/SortFront/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Homework/SortFrontProj/SortFront/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Homework/SortFrontProj/SortFront/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Homework/SortFrontProj/SortFront/ResultPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.ResultPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ResultPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ResultPage.xaml
+
+[D:/Homework/SortFrontProj/SortFront/Themes/DarkTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.Themes.DarkTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\DarkTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\DarkTheme.xaml
+
+[D:/Homework/SortFrontProj/SortFront/Themes/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SortFront.Themes.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\LightTheme.xaml
