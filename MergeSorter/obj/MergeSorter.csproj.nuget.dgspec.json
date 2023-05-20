@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Homework\\MergeSortProj\\MergeSorter\\MergeSorter.csproj": {}
+    "D:\\Homework\\SortFrontProj\\semester_work2\\MergeSorter\\MergeSorter.csproj": {}
   },
   "projects": {
-    "D:\\Homework\\MergeSortProj\\MergeSorter\\MergeSorter.csproj": {
+    "D:\\Homework\\SortFrontProj\\semester_work2\\MergeSorter\\MergeSorter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Homework\\MergeSortProj\\MergeSorter\\MergeSorter.csproj",
+        "projectUniqueName": "D:\\Homework\\SortFrontProj\\semester_work2\\MergeSorter\\MergeSorter.csproj",
         "projectName": "MergeSorter",
-        "projectPath": "D:\\Homework\\MergeSortProj\\MergeSorter\\MergeSorter.csproj",
+        "projectPath": "D:\\Homework\\SortFrontProj\\semester_work2\\MergeSorter\\MergeSorter.csproj",
         "packagesPath": "C:\\Users\\anika\\.nuget\\packages\\",
-        "outputPath": "D:\\Homework\\MergeSortProj\\MergeSorter\\obj\\",
+        "outputPath": "D:\\Homework\\SortFrontProj\\semester_work2\\MergeSorter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

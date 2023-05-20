@@ -13,8 +13,7 @@ namespace MergeSorter
             for(int i = 0; i < 100; i++)
             {
                 var ad = IsSorted(new MergeSorter().Sort(GenerateArray()));
-                if(ad == false)
-                    Console.WriteLine(ad);
+                Console.WriteLine(ad);
             }
         }
 
